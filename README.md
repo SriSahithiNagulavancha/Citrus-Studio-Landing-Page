@@ -30,7 +30,7 @@ Built using pure HTML and CSS, the project focuses on clean layout structure, ty
 
 ## 📸 Preview
 
-![Project Preview](./images/Banner.PNG)Citrus Studio Landing Page.png
+![Project Preview](./images/citrus-studio-banner.png)
 
 ---
 
