@@ -48,3 +48,10 @@ https://srisahithinagulavancha.github.io/Citrus-Studio-Landing-Page/
 ├── style.css
 ├── images/
 └── README.md
+
+👩‍💻 Author
+
+Sri Sahithi Nagulavancha
+
+GitHub:
+https://github.com/SriSahithiNagulavancha
