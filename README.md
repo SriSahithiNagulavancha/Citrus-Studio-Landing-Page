@@ -5,6 +5,11 @@ A responsive and visually minimal landing page inspired by modern editorial and 
 Built using pure HTML and CSS, the project focuses on clean layout structure, typography hierarchy, split-screen composition, responsive behavior, and image-based storytelling.
 
 ---
+## 📸 Preview
+
+![Project Preview](./images/citrus-studio-banner.png)
+
+---
 
 ## ✨ Features
 
@@ -28,15 +33,11 @@ Built using pure HTML and CSS, the project focuses on clean layout structure, ty
 
 ---
 
-## 📸 Preview
 
-![Project Preview](./images/citrus-studio-banner.png)
-
----
 
 ## 🚀 Live Demo
 
-https://srisahithinagulavancha.github.io/citrus-studio-landing-page/
+https://srisahithinagulavancha.github.io/Citrus-Studio-Landing-Page/
 
 ---
 
